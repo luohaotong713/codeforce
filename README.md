@@ -1,5 +1,5 @@
 # codeforce
-This is some solutions for the problem of codeforce.
+This is some solutions for some problems of codeforce.
 
 You can access my Wechat if you like.
 
