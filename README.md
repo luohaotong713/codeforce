@@ -1,2 +1,2 @@
 # codeforce
-This is soome solutions for the problem of codeforce.
+This is some solutions for the problem of codeforce.
